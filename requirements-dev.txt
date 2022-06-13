@@ -1,0 +1,5 @@
+# Specify dev requirements here
+-r requirements.txt
+pre-commit
+pytest
+# pytest-asyncio  # Uncomment if using asyncio
